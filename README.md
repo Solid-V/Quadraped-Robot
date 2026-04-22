@@ -3,7 +3,7 @@
 An embedded robotics platform for a 12-DOF quadruped "robot dog," focusing on low-latency procedural control, inverse kinematics (IK), and real-time stabilization using the ESP32 and Python.
 
 ## Tech Stack
-- **Firmware:** C++/Arduino (ESP-IDF compatible logic)
+- **Firmware:** C++/Arduino
 - **Hardware Controller:** ESP32 C6 zero from waveshare
 - **Actuators:** ST3215 Servos
 - **Sensors:** ISM330DHCX (6-Axis IMU) for basic pitch stabilization 
