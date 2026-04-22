@@ -22,7 +22,7 @@ An embedded robotics platform for a 12-DOF quadruped "robot dog," focusing on lo
 - **Phase-Based Synchronization:** Uses a global phase variable to synchronize all four legs into a stable trot or walk.
 
 ### Active Stabilization (highly experimental logic)
-- **IMU Feedback Loop:** Real-time pitch correction using a Low Pass Filtered (LPF) signal from the ISM330DHCX.
+- **IMU Feedback Loop:** Real-time pitch correction using signal from the ISM330DHCX.
 - **Auto-Leveling:** Automatically adjusts leg height offsets based on body tilt to maintain a level chassis.
 
 ### Automated Sequences
