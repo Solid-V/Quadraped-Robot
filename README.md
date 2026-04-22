@@ -27,3 +27,5 @@ An embedded robotics platform for a 12-DOF quadruped "robot dog," focusing on lo
 
 ### Automated Sequences
 - **Latching State Machine:** Execute complex maneuvers (e.g., "40-Step Walk to Crouch") triggered by a single controller pulse.
+
+![screenshot2](images/quadRobo.jpg)
