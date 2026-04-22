@@ -8,7 +8,9 @@ An embedded robotics platform for a 12-DOF quadruped "robot dog," focusing on lo
 - **Actuators:** ST3215 Servos
 - **Sensors:** ISM330DHCX (6-Axis IMU) for basic pitch stabilization 
 - **Communication:** UDP over WiFi for low-latency control
-- **Operator Interface:** Python-based XInput controller bridge or a radiomaster transmitter 
+- **Operator Interface:** Python-based XInput controller bridge or a radiomaster transmitter
+- **DRONE Flight Controller:** Mico Air F405 mini
+- **Flight controller firmware:** Ardupilot
 
 ##  Key Features
 ### Custom Inverse Kinematics (IK) Engine
