@@ -5,8 +5,8 @@
 #include <Adafruit_ISM330DHCX.h>
 SMS_STS st;
 
-const char* ssid = "ambuja";
-const char* password = "ambuja126";
+const char* ssid = "YOUR SSID";
+const char* password = "YOUR PASSWORD";
 
 WiFiUDP udp;
 unsigned int localUdpPort = 4210;  // Port to listen on
